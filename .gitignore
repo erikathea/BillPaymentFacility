@@ -1,0 +1,13 @@
+stacktrace.log
+target/*
+target-eclipse/*
+
+#IDE specific files for IntelliJ IDEA
+.idea/**
+out/**
+smart-fe-tool-grailsPlugins.iml
+smart-fe-tool.iml
+
+#Eclipse stuff
+
+.settings/**
